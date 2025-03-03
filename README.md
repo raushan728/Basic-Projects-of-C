@@ -1,144 +1,124 @@
 # Basic-Projects-of-C
 
-Basic C Projects
 
-Welcome to my GitHub repository! 🚀 Here, you will find 5 basic C projects that will help you strengthen your programming skills and gain hands-on experience with C.
+# Basic C Projects
 
-📌 Projects Included
+Welcome to my GitHub repository! 🚀 Here, you will find **5 basic C projects** that will help you strengthen your programming skills and gain hands-on experience with C.
 
-1️⃣ Calculator
+## 📌 Projects Included
+
+### 1️⃣ Calculator
 
 A simple calculator that performs basic arithmetic operations like addition, subtraction, multiplication, division, and modulus.
 
-Features:
+- **Features:**
 
-Addition (+), Subtraction (-), Multiplication (*), Division (/), and Modulus (%)
+  - Addition (+), Subtraction (-), Multiplication (\*), Division (/), and Modulus (%)
+  - User input support
+  - Displays the result instantly
 
-User input support
+- **How It Works:**
 
-Displays the result instantly
+  - The user selects an operation.
+  - Inputs two numbers.
+  - The program calculates and displays the result.
 
-How It Works:
-
-The user selects an operation.
-
-Inputs two numbers.
-
-The program calculates and displays the result.
-
-2️⃣ To-Do List
+### 2️⃣ To-Do List
 
 A simple to-do list program that allows users to manage tasks.
 
-Features:
+- **Features:**
 
-Add new tasks
+  - Add new tasks
+  - Delete completed tasks
+  - View all tasks
+  - Save tasks using file handling
 
-Delete completed tasks
+- **How It Works:**
 
-View all tasks
+  - The user can enter a task to add it to the list.
+  - Tasks are displayed in an ordered list.
+  - The user can remove tasks by selecting them.
+  - Data is saved using file handling to retain tasks between program runs.
 
-Save tasks using file handling
-
-How It Works:
-
-The user can enter a task to add it to the list.
-
-Tasks are displayed in an ordered list.
-
-The user can remove tasks by selecting them.
-
-Data is saved using file handling to retain tasks between program runs.
-
-3️⃣ Number Guessing Game
+### 3️⃣ Number Guessing Game
 
 A fun game where the user has to guess a randomly generated number.
 
-Features:
+- **Features:**
 
-Random number generation
+  - Random number generation
+  - User input for guessing the number
+  - Hints whether the guessed number is too high or too low
+  - Keeps track of attempts
 
-User input for guessing the number
+- **How It Works:**
 
-Hints whether the guessed number is too high or too low
+  - The program generates a random number within a specified range.
+  - The user inputs guesses until they find the correct number.
+  - The program provides hints like "Too high" or "Too low".
+  - The game ends when the user guesses correctly, displaying the number of attempts taken.
 
-Keeps track of attempts
-
-How It Works:
-
-The program generates a random number within a specified range.
-
-The user inputs guesses until they find the correct number.
-
-The program provides hints like "Too high" or "Too low".
-
-The game ends when the user guesses correctly, displaying the number of attempts taken.
-
-4️⃣ Unit Converter
+### 4️⃣ Unit Converter
 
 A simple program that converts units like temperature, distance, and weight.
 
-Features:
+- **Features:**
 
-Convert Celsius to Fahrenheit and vice versa
+  - Convert Celsius to Fahrenheit and vice versa
+  - Convert kilometers to miles and vice versa
+  - Convert kilograms to pounds and vice versa
 
-Convert kilometers to miles and vice versa
+- **How It Works:**
 
-Convert kilograms to pounds and vice versa
+  - The user selects the type of conversion.
+  - Inputs the value to be converted.
+  - The program calculates and displays the converted value.
 
-How It Works:
-
-The user selects the type of conversion.
-
-Inputs the value to be converted.
-
-The program calculates and displays the converted value.
-
-5️⃣ Student Record System
+### 5️⃣ Student Record System
 
 A basic student record management system to store and retrieve student details.
 
-Features:
+- **Features:**
 
-Add new student records
+  - Add new student records
+  - View all records
+  - Search for a student by name or roll number
+  - Delete student records
 
-View all records
+- **How It Works:**
 
-Search for a student by name or roll number
+  - The user inputs student details (name, roll number, marks, etc.).
+  - The program stores the details in a file.
+  - The user can search for and retrieve student records.
+  - The user can delete records if needed.
 
-Delete student records
-
-How It Works:
-
-The user inputs student details (name, roll number, marks, etc.).
-
-The program stores the details in a file.
-
-The user can search for and retrieve student records.
-
-The user can delete records if needed.
-
-🛠 Requirements
+## 🛠 Requirements
 
 To run these programs, you need:
 
-A C compiler (GCC, Clang, or Turbo C)
+- A C compiler (GCC, Clang, or Turbo C)
+- A terminal or command prompt
 
-A terminal or command prompt
+## 🚀 How to Run
 
-🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/basic-c-projects.git
+   ```
+2. Navigate to the project folder:
+   ```bash
+   cd basic-c-projects
+   ```
+3. Compile and run any project:
+   ```bash
+   gcc calculator.c -o calculator
+   ./calculator
+   ```
+   *(Replace **********************`calculator.c`********************** with any other project's file name.)*
 
-Clone the repository:
 
-git clone https://github.com/your-username/basic-c-projects.git
 
-Navigate to the project folder:
+###
 
-cd basic-c-projects
 
-Compile and run any project:
-
-gcc calculator.c -o calculator
-./calculator
-
-(Replace calculator.c with any other project's file name.)
