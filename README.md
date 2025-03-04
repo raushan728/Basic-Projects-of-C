@@ -101,9 +101,8 @@ Enter your choice: 3
 Enter task number to delete (or 0 to delete all): 2
 Task deleted successfully!
 
-Enter your choice: 2
-
------ Your Tasks -----
+Enter your choice: 4
+Exiting program...
 
 
 ___
