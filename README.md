@@ -23,6 +23,43 @@ A simple calculator that performs basic arithmetic operations like addition, sub
   - Inputs two numbers.
   - The program calculates and displays the result.
 
+---
+
+🚀 Output Example (Same as Before)
+
+----- Simple Calculator -----
+1. Addition (+)
+2. Subtraction (-)
+3. Multiplication (*)
+4. Division (/)
+5. Modulus (%)
+6. Exit
+Enter your choice: 1
+Enter first number: 10
+Enter second number: 5
+Result: 10 + 5 = 15.00
+
+Enter your choice: 3
+Enter first number: 8
+Enter second number: 7
+Result: 8 * 7 = 56.00
+
+Enter your choice: 4
+Enter first number: 10
+Enter second number: 0
+Error! Division by zero is not allowed.
+
+Enter your choice: 5
+Enter first number: 20
+Enter second number: 3
+Result: 20 % 3 = 2
+
+Enter your choice: 6
+Exiting program...
+
+
+---
+
 ### 2️⃣ To-Do List
 
 A simple to-do list program that allows users to manage tasks.
