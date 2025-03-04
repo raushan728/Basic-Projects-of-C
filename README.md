@@ -84,18 +84,18 @@ A simple to-do list program that allows users to manage tasks.
 3. Delete Task
 4. Exit
 Enter your choice: 1
-Enter task: Complete C project
+Enter task: I am Raushan
 Task added successfully!
 
 Enter your choice: 1
-Enter task: Study for exam
+Enter task: From Bihar
 Task added successfully!
 
 Enter your choice: 2
 
 ----- Your Tasks -----
-1. Complete C project
-2. Study for exam
+1. I am Raushan
+2. From Bihar
 
 Enter your choice: 3
 Enter task number to delete (or 0 to delete all): 2
