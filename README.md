@@ -104,7 +104,9 @@ Task deleted successfully!
 Enter your choice: 2
 
 ----- Your Tasks -----
-1. Complete C project
+
+
+___
 
 ### 3️⃣ Number Guessing Game
 
