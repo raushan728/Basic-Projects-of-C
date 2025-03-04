@@ -23,7 +23,7 @@ A simple calculator that performs basic arithmetic operations like addition, sub
   - Inputs two numbers.
   - The program calculates and displays the result.
 
-🚀 Output Example (Same as Before)
+🚀 Output Example.
 
 ----- Simple Calculator -----
 1. Addition (+)
@@ -75,6 +75,36 @@ A simple to-do list program that allows users to manage tasks.
   - Tasks are displayed in an ordered list.
   - The user can remove tasks by selecting them.
   - Data is saved using file handling to retain tasks between program runs.
+
+🚀 Output Example.
+
+----- To-Do List -----
+1. Add Task
+2. View Tasks
+3. Delete Task
+4. Exit
+Enter your choice: 1
+Enter task: Complete C project
+Task added successfully!
+
+Enter your choice: 1
+Enter task: Study for exam
+Task added successfully!
+
+Enter your choice: 2
+
+----- Your Tasks -----
+1. Complete C project
+2. Study for exam
+
+Enter your choice: 3
+Enter task number to delete (or 0 to delete all): 2
+Task deleted successfully!
+
+Enter your choice: 2
+
+----- Your Tasks -----
+1. Complete C project
 
 ### 3️⃣ Number Guessing Game
 
