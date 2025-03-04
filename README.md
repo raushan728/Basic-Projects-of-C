@@ -23,8 +23,6 @@ A simple calculator that performs basic arithmetic operations like addition, sub
   - Inputs two numbers.
   - The program calculates and displays the result.
 
----
-
 🚀 Output Example (Same as Before)
 
 ----- Simple Calculator -----
