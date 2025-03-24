@@ -126,7 +126,7 @@ A fun game where the user has to guess a randomly generated number.
   - The game ends when the user guesses correctly, displaying the number of attempts taken.
   
  🚀 Output Example.  
-   -----Number Guessing game-----
+   -----Number Guessing game-----  
 Guess a number between 1 and 100:  
 10  
 Try a higher number!  
