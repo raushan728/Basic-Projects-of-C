@@ -220,7 +220,7 @@ Select a conversion type:
 
 Enter your choice: 5
 Enter temperature in Celsius: 100
-100.00°C = 212.00°F
+100.00 Celsius = 212.00 Fahrenheit
 
 Do you want to convert again? (Press 'y' to continue, any other key to exit): n
 Thank you for using Unit Converter!
