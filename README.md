@@ -244,6 +244,58 @@ A basic student record management system to store and retrieve student details.
   - The program stores the details in a file.
   - The user can search for and retrieve student records.
   - The user can delete records if needed.
+  🚀 Output Example.
+----Student record System----  
+ Welcome to Student Record System
+1. Add Student Record
+2. View All Students
+3. Search Student by Roll Number
+4. Update Student Marks
+5. Delete Student Record
+6. Exit
+
+Enter your choice: 1
+Enter Roll Number: 101
+Enter Name: Rajesh Kumar
+Enter Marks: 85
+Student record added successfully!
+
+Do you want another operation? (Press 'y' to continue, any other key to exit): y
+
+1. Add Student Record
+2. View All Students
+3. Search Student by Roll Number
+4. Update Student Marks
+5. Delete Student Record
+6. Exit
+
+Enter your choice: 2
+Student Records:
+Roll No: 101, Name: Rajesh Kumar, Marks: 85
+
+Do you want another operation? (Press 'y' to continue, any other key to exit): y
+
+Enter your choice: 3
+Enter Roll Number to search: 101
+Student Found - Name: Rajesh Kumar, Marks: 85
+
+Do you want another operation? (Press 'y' to continue, any other key to exit): y
+
+Enter your choice: 4
+Enter Roll Number to update marks: 101
+Enter new marks: 90
+Marks updated successfully!
+
+Do you want another operation? (Press 'y' to continue, any other key to exit): y
+
+Enter your choice: 5
+Enter Roll Number to delete: 101
+Student record deleted successfully!
+
+Do you want another operation? (Press 'y' to continue, any other key to exit): n
+Thank you for using Student Record System!
+
+---
 
 ## 🛠 Requirements
 
