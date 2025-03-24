@@ -243,10 +243,11 @@ A basic student record management system to store and retrieve student details.
   - The user inputs student details (name, roll number, marks, etc.).
   - The program stores the details in a file.
   - The user can search for and retrieve student records.
-  - The user can delete records if needed.
-  🚀 Output Example.
+  - The user can delete records if needed.  
+  
+  🚀 Output Example.   
 ----Student record System----  
- Welcome to Student Record System
+Welcome to Student Record System
 1. Add Student Record
 2. View All Students
 3. Search Student by Roll Number
