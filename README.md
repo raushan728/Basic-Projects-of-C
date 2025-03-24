@@ -190,6 +190,41 @@ A simple program that converts units like temperature, distance, and weight.
   - The user selects the type of conversion.
   - Inputs the value to be converted.
   - The program calculates and displays the converted value.
+ 
+  - 🚀 Output Example.
+ Welcome to Unit Converter!
+Select a conversion type:
+1. Kilometers to Meters
+2. Meters to Kilometers
+3. Kilograms to Grams
+4. Grams to Kilograms
+5. Celsius to Fahrenheit
+6. Fahrenheit to Celsius
+7. Exit
+
+Enter your choice: 1
+Enter value in Kilometers: 5
+5.00 Kilometers = 5000.00 Meters
+
+Do you want to convert again? (Press 'y' to continue, any other key to exit): y
+
+Select a conversion type:
+1. Kilometers to Meters
+2. Meters to Kilometers
+3. Kilograms to Grams
+4. Grams to Kilograms
+5. Celsius to Fahrenheit
+6. Fahrenheit to Celsius
+7. Exit
+
+Enter your choice: 5
+Enter temperature in Celsius: 100
+100.00°C = 212.00°F
+
+Do you want to convert again? (Press 'y' to continue, any other key to exit): n
+Thank you for using Unit Converter!
+
+---
 
 ### 5️⃣ Student Record System
 
