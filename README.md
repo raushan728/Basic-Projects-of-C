@@ -124,6 +124,56 @@ A fun game where the user has to guess a randomly generated number.
   - The user inputs guesses until they find the correct number.
   - The program provides hints like "Too high" or "Too low".
   - The game ends when the user guesses correctly, displaying the number of attempts taken.
+  - 
+ 🚀 Output Example.
+  - -----Number Guessing game-----
+  - Guess a number between 1 and 100:  
+10  
+Try a higher number!  
+
+30  
+Try a higher number!  
+
+60  
+Try a lower number!  
+
+50  
+Try a lower number!  
+
+40  
+Try a lower number!  
+
+35  
+Try a higher number!  
+
+38  
+Try a lower number!  
+
+37  
+Congratulations! You guessed the number in 8 attempts.  
+
+Do you want to play again? (Press 'y' to continue, any other key to exit): y  
+
+Guess a number between 1 and 100:  
+45  
+Try a higher number!  
+
+70  
+Try a lower number!  
+
+55  
+Try a lower number!  
+
+50  
+Try a lower number!  
+
+48  
+Congratulations! You guessed the number in 5 attempts.  
+
+Do you want to play again? (Press 'y' to continue, any other key to exit): n  
+Thank you for playing!  
+
+---
 
 ### 4️⃣ Unit Converter
 
