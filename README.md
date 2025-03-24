@@ -124,7 +124,7 @@ A fun game where the user has to guess a randomly generated number.
   - The user inputs guesses until they find the correct number.
   - The program provides hints like "Too high" or "Too low".
   - The game ends when the user guesses correctly, displaying the number of attempts taken.
-  - 
+  
  🚀 Output Example.
   - -----Number Guessing game-----
   - Guess a number between 1 and 100:  
