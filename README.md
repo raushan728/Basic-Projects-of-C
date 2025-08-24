@@ -136,7 +136,7 @@ To run these programs, you need:
 
 1️⃣ **Clone the repository:**
 ```sh
-   git clone https://github.com/your-username/basic-c-projects.git
+   git clone https://github.com/raushan728/Basic-Projects-of-C.git
 ```
 
 2️⃣ **Navigate to the project folder:**
